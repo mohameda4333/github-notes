@@ -7,3 +7,6 @@
 ## Repository
 - Another word for project/ a repository of files
 - Can have multiple files associated with it.
+## Commit
+- Think of it as a "save" button.
+- Change the file and make a **commit**
